@@ -1,0 +1,121 @@
+
+
+body{
+
+
+  font-family: "Montserrat";
+  color: #1c1919;
+  background: white;
+
+
+}
+
+p{
+    line-height: 2;
+    color: black;
+}
+
+h3{
+  color: #9b986e;
+}
+
+
+/* CLASSES */
+
+.computer h3 {
+  justify-content: center;
+}
+
+.computer h3 p{
+  justify-content: flex-start;
+}
+
+/* ids */
+
+#footer{
+  padding: 6% 10% 5% ;
+  text-align: center;
+  color: black;
+  font-size: 1.5rem;
+}
+
+.aboutText{
+  color: #9b986e;
+}
+
+#aHr {
+  width: 20%;
+  color: #9b986e;
+  border: 2px solid #f3e84b;
+  border-radius: 2px;
+  margin-top: 0;
+  position: relative;
+  z-index: -1;
+}
+
+
+
+.aboutsec{
+  width: 100%;
+}
+
+.computer{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 100px;
+
+
+}
+
+.research{
+  width: 20%;
+  float:right;
+  margin-left: 30px;
+  border-radius: 100px;
+
+}
+
+.myskillh2{
+  text-align: center;
+  margin-top: 100% auto;
+
+}
+
+.skill-row{
+  width: 70%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+
+.container-fluid {
+  padding: 3% 7% 0%;
+}
+
+.end{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5%;
+  background-color:#e0ddaa;
+  padding: 2% 2% 0;
+  font-size: 20px;
+}
+
+@media (max-width: 991px) {
+  .computer{
+    /* width: 17%; */
+    float: left;
+    margin-right: 30px;
+    border-radius: 100px;
+
+  }
+
+  p {
+    line-height: 2;
+    color: black;
+    font-size: 20px;
+}
+
+}

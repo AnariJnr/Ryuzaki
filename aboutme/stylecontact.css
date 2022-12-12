@@ -1,0 +1,26 @@
+body{
+margin: 2%;
+
+/* background: url(images/loveme.jpg);
+background-size: cover;
+background-position: top;
+background-repeat: repeat; */
+ background-color:#ecedf1; 
+font-family: "Montserrat";
+}
+
+html{
+  height:100%;
+}
+
+.contact-me-form{
+  text-align: center;
+  font-size: 1.5rem;
+
+}
+
+.order-text{
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  font-size: 4rem;
+}

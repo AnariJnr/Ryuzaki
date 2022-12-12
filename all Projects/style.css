@@ -1,0 +1,106 @@
+
+
+body{
+
+
+  font-family: "Montserrat";
+  color: #1c1919;
+  background: beige;
+  color: #000B49;
+
+
+}
+
+
+/* CLASSES */
+h3{
+
+}
+
+h2.job{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 5% 0 0 0;
+}
+
+
+/* ids */
+
+#footer{
+  padding: 6% 10% 5% ;
+  text-align: center;
+  color: black;
+  font-size: 1.5rem;
+}
+
+.aboutmeimg{
+  height: 100%;
+  width: 100%;
+}
+
+.container-fluid {
+  padding: 3% 7% 0%;
+}
+
+.info{
+  font-size: 1.5rem;
+  margin: 1% 0 0 0;
+  color: #1c1919;
+
+}
+
+.projects.container-fluid{
+    padding: 0 7% 0%;
+    margin-top: -20%;
+}
+
+.myName{
+  border-bottom: 2px solid ;
+  width: 3%;
+  font-weight: bold;
+}
+
+div.title{
+  margin-top: 70% 0 0 0;
+}
+
+.buttonsContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  padding: 2%;
+}
+
+.buttonsContainer button:hover{
+  background-color: hsl(231deg 100% 14%);
+}
+
+
+@media (max-width: 991px){
+  #projectpointer {
+    margin-top: -8%;
+  }
+  #aHr{
+    width: 20%;
+  }
+  #project-name{
+    font-size: 28px;
+  }
+  #info{
+    font-size: 22px;
+  }
+
+  .fa-chevron-left:before {
+    content: "\f053";
+    padding: 0 100px 0;
+    font-size: 50px;
+  }
+
+  .fa-chevron-right:before {
+    content: "\f054";
+    padding: 0 100px 0;
+    font-size: 50px;
+  }
+}

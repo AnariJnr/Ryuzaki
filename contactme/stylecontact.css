@@ -1,0 +1,102 @@
+body{
+
+/* background: url(images/loveme.jpg);
+background-size: cover;
+background-position: top;
+background-repeat: repeat; */
+ background-color:#ecedf1;
+font-family: "Montserrat";
+}
+
+html{
+  height:100%;
+}
+
+p a{
+  color: black;
+}
+
+.address{
+  text-align: center;
+  margin: 1% 0 0 0;
+}
+
+.btn{
+  margin-top: 1%;
+}
+
+.Copyright{
+
+
+}
+
+.end{
+  background-color:#e0ddaa;
+  padding: 2% 10% 2%;
+  text-align: center;
+}
+
+div p{
+  text-align: center;
+  margin: 2% 0 0 0;
+
+}
+
+.Getintouch{
+  text-align: center;
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 7% 0 0 0;
+  color: #9b986e;
+
+}
+
+.icons{
+  text-align: center;
+  margin: 1% 0 0 0;
+
+}
+
+.icon-2 {
+  margin: 0 10px 0%;
+  color: #9b986e;
+}
+
+.icon-2:hover {
+
+  color: brown;
+}
+
+
+
+.label{
+  margin: 3% 0;
+  text-align: center;
+}
+
+
+.order-text{
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  font-size: 4rem;
+}
+
+@media(max-width:991px){
+  p a {
+    color: black;
+    font-size: 25px;
+}
+
+.icons{
+  font-size: 25px;
+}
+
+form{
+  font-size: 20px;
+}
+
+.end{
+  font-size: 17px;
+}
+}
