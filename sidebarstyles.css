@@ -284,4 +284,20 @@ Sidebar
       width: 400px;
       z-index: 1;
   }
+
+  .fa-circle-xmark:before, .fa-times-circle:before, .fa-xmark-circle:before {
+    content: "\f057";
+    font-size: 60px;
+}
+
+.links li a{
+  font-size: 40px;
+}
+
+.social-icons li a {
+  justify-self: center;
+  display: flex;
+  padding-bottom: 2rem;
+  font-size: 50px;
+}
 }
