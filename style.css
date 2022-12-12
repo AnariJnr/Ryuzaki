@@ -69,12 +69,13 @@ div.title{
 @media (max-width: 991px){
   #projectpointer {
     margin-top: -8%;
+    font-size: 60px;
   }
   #aHr{
     width: 20%;
   }
   #project-name{
-    font-size: 28px;
+    font-size: 80px;
   }
   #info{
     font-size: 22px;
@@ -83,12 +84,45 @@ div.title{
   .fa-chevron-left:before {
     content: "\f053";
     padding: 0 100px 0;
-    font-size: 50px;
+    font-size: 200px;
   }
 
   .fa-chevron-right:before {
     content: "\f054";
     padding: 0 100px 0;
-    font-size: 50px;
+    font-size:200px;
   }
+
+  /* extra */
+  .myName{
+    font-size: 100px;
+    width:10%;
+  }
+
+  h2.job{
+    font-size: 85px;
+  }
+
+  .sidebar-toggle{
+    font-size: 100px;
+    z-index: 1;
+  }
+
+  .info {
+    font-size: 60px;
+    
+}
+#person-img {
+  width: 100%;
+  
+}
+
+#view-project button{
+  font-size: 45px;
+}
+
+#info{
+  font-size: 60px;
+}
+
 }
