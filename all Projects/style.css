@@ -81,26 +81,37 @@ div.title{
 @media (max-width: 991px){
   #projectpointer {
     margin-top: -8%;
+    font-size: 60px;
   }
   #aHr{
     width: 20%;
   }
   #project-name{
-    font-size: 28px;
-  }
-  #info{
-    font-size: 22px;
-  }
-
-  .fa-chevron-left:before {
-    content: "\f053";
-    padding: 0 100px 0;
     font-size: 50px;
   }
-
-  .fa-chevron-right:before {
-    content: "\f054";
-    padding: 0 100px 0;
-    font-size: 50px;
+ 
+  .buttonsContainer button{
+    font-size: 25px;
   }
+
+  .sidebar-toggle{
+    font-size: 100px;
+    z-index: 1;
+  }
+
+
+  /* extra */
+
+#person-img {
+  width: 102%;
+  
+}
+
+#view-project button{
+  font-size: 45px;
+}
+
+#info{
+  font-size: 35px;
+}
 }

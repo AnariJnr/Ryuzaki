@@ -13,7 +13,7 @@ const reviews = [
 
   {
     id: 2,
-    projectName: "Chidera Ibe Architects",
+    projectName: "Ibe Architects",
     linkProject: "https://anarijnr.github.io/Bigi/",
     img:
       "images/BLOCK OF FLATS, JAHI, ABUJA (4).jpg",
