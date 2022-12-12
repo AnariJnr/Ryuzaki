@@ -287,17 +287,12 @@ Sidebar
 
   .fa-circle-xmark:before, .fa-times-circle:before, .fa-xmark-circle:before {
     content: "\f057";
-    font-size: 60px;
+    font-size: 40px;
 }
 
 .links li a{
   font-size: 40px;
 }
 
-.social-icons li a {
-  justify-self: center;
-  display: flex;
-  padding-bottom: 2rem;
-  font-size: 50px;
-}
+
 }
