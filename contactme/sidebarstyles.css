@@ -284,4 +284,15 @@ Sidebar
       width: 400px;
       z-index: 1;
   }
+
+  .fa-circle-xmark:before, .fa-times-circle:before, .fa-xmark-circle:before {
+    content: "\f057";
+    font-size: 40px;
+}
+
+.links li a{
+  font-size: 40px;
+}
+
+
 }
