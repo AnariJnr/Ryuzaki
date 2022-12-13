@@ -85,18 +85,35 @@ div p{
 @media(max-width:991px){
   p a {
     color: black;
-    font-size: 25px;
+    font-size: 40px;
 }
 
 .icons{
-  font-size: 25px;
+  font-size: 35px;
 }
 
 form{
-  font-size: 20px;
+  font-size: 26px;
 }
 
 .end{
   font-size: 17px;
+}
+
+.Getintouch{
+  font-size: 70px;
+}
+
+.fa-location-dot:before, .fa-map-marker-alt:before {
+  content: "\f3c5";
+  font-size: 35px;
+}
+
+.sidebar-toggle{
+  font-size: 80px;
+}
+
+form button.btn{
+  font-size: 40px;
 }
 }
