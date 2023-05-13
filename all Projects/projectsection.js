@@ -47,7 +47,7 @@ const reviews = [
   {
     id: 5,
     projectName: "Debtors List",
-    linkProject: "https://anarijnr.github.io/Debt-and-Credit/",
+    linkProject: "https://anarijnr.github.io/Debt/",
     img:
       "images/debtors2.jpg",
     text:
