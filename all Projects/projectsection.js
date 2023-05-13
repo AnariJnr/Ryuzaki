@@ -49,7 +49,7 @@ const reviews = [
     projectName: "Debtors List",
     linkProject: "https://anarijnr.github.io/Debt-and-Credit/",
     img:
-      "images/debtors.png",
+      "images/debtors2.png",
     text:
       "A website that organizes debts and shows credit when a debt is paid. This site is mainly for a small scale business. Please view with desktop as the site is not yet optimised for mobile devices.",
   },
